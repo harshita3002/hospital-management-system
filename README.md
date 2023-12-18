@@ -1,0 +1,1 @@
+The Terminal-based Hospital Management System, developed using Python and MySQL, offers a command-line interface for streamlined patient registration, appointment scheduling, and billing. With electronic health record management and pharmacy functions, the system makes it an effective solution for healthcare facility management.
